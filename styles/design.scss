@@ -1,0 +1,28 @@
+@import './core/base';
+@import './core/footer';
+@import './core/header';
+@import './core/reset';
+
+@import './lib/mixins';
+@import './lib/variables';
+
+/* Variables */
+/* Core Page Elements */
+
+header,
+footer {
+  background-color: $rootColor;
+  color: $accentColor;
+}
+
+div {
+  margin: $space;
+}
+
+a {
+  color: #655b61;
+}
+
+p {
+  font-family: $font;
+}

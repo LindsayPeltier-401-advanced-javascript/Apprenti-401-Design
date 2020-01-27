@@ -1,2 +1,2 @@
-# Apprenti-401-Design-SCSS
-Created with CodeSandbox
+# Apprenti-401-DesignChallenge-01
+SASS Design Scaffold
